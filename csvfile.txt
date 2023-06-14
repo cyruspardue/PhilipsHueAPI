@@ -1,0 +1,2 @@
+bathroomr,bathroomg,bathroomb,bathroomw,bathroomy,bathroombr,kitchenr,kitcheng,kitchenb,kitchenw,kitcheny,kitchenbr,livingroomr,livingroomg,livingroomb,livingroomw,livingroomy,livingroombr,bedroomr,bedroomg,bedroomb,bedroomw,bedroomy,bedroombr,checklivingroom,checkbedroom,checkbathroom,checkkitchen
+20,30,40,255,60,28,158,30,40,50,60,70,20,30,40,50,60,70,236,137,120,1,255,70,0,1,1,0
